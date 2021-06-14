@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -u
+head -10 /etc/passwd
